@@ -42,9 +42,9 @@
 <p><strong>You</strong> means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.</p>
 </li>
 </ul>
-<p><strong>Background Usage</strong> Rails app will :
+<p><strong>BACKGROUND USAGE,</strong> Rails app will :
   <ul>
-    <li><p>collects location data to enable Asset Location that available on database & Asset List even when the app is closed or not in use.</p></li>
+    <li><p>Collects Location Data to enable Asset Location that available on database & Asset List even when the app is closed or not in use.</p></li>
 <p>
 <h1>Collecting and Using Your Personal Data</h1>
 <h2>Types of Data Collected</h2>
