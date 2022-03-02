@@ -44,7 +44,8 @@
 </ul>
 <p><strong>BACKGROUND USAGE,</strong> Rails app will :
   <ul>
-    <li><p>Collects Location Data to enable Asset Location that available on database & Asset List even when the app is closed or not in use.</p></li>
+    <li><p>Collects Location Data to know reported location from user even when the app is closed or not in use.</p></li>
+    <li><p>Rails apps will request for location data permission at second tab when you click report at main screen.</p></li>
 <p>
 <h1>Collecting and Using Your Personal Data</h1>
 <h2>Types of Data Collected</h2>
